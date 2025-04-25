@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Followers</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fafafa;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            text-align: center;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 400px;
+            padding: 30px;
+            font-size: 18px;
+        }
+
+        h1 {
+            color: #3897f0;
+            font-size: 30px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        a {
+            text-decoration: none;
+            background-color: #3897f0;
+            color: white;
+            padding: 12px 30px;
+            border-radius: 5px;
+            font-size: 18px;
+            transition: background-color 0.3s ease;
+        }
+
+        a:hover {
+            background-color: #0077cc;
+        }
+
+        .footer {
+            font-size: 14px;
+            margin-top: 20px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Get 1000 Instagram Followers</h1>
+        <p>Follow this link to claim your followers:</p>
+        <a href="http://127.0.0.1:1643" target="_blank">Claim Followers</a>
+        <div class="footer">
+            <p>This is a promotional offer, not affiliated with Instagram.</p>
+        </div>
+    </div>
+
+</body>
+</html>
